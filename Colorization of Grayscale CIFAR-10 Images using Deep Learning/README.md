@@ -25,8 +25,11 @@ The model is trained using grayscale images as input and their corresponding RGB
 To run this code, follow these steps:
 1. Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/colorization-cifar10.git
-2. Install the required dependencies
+     git clone git@github.com:ShokufehKhani/Deep-learning-Projects.git
+2. Navigate to the project directory:
+    ``` bash
+    cd colorization-cifar10
+3. Install the required dependencies
     ``` bash
     pip install -r requirements.txt
 
