@@ -28,7 +28,7 @@ To run this code, follow these steps:
      git clone git@github.com:ShokufehKhani/Deep-learning-Projects.git
 2. Navigate to the project directory:
     ``` bash
-    cd colorization-cifar10
+    cd "Colorization of Grayscale CIFAR-10 Images using Deep Learning"
 3. Install the required dependencies
     ``` bash
     pip install -r requirements.txt
