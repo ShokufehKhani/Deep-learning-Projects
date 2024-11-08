@@ -12,13 +12,13 @@ This project implements a Generative Adversarial Network (GAN) to generate reali
 
 **Installation and Setup**
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/ShokufehKhani/Deep-learning-Projects.git
+    ```bash
+    git clone https://github.com/ShokufehKhani/Deep-learning-Projects.git
 
 2. Navigate to project directory
-  ```bash
-  cd "Generating Realistic Human Faces with GANs: A Deep Learning Approach"
+    ```bash
+    cd "Generating Realistic Human Faces with GANs: A Deep Learning Approach"
 
 2. Install required libraries:
-  ```bash
-  pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
