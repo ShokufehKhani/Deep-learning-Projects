@@ -1,0 +1,8 @@
+fluidsynth
+numpy
+pandas
+pretty_midi
+seaborn
+tensorflow
+IPython
+matplotlib
